@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @choggly
-- 👀 I’m interested in old school runescape
-- 🌱 I’m currently learning java & scala
-- 💞️ I’m looking to collaborate on n/a
-- 📫 How to reach me pm
+- 👋 Hi, I’m @choggly or Charlie 🤵
+- 👀 I’m interested in Old School Runescape ⚔️
+- 🌱 I’m currently learning Java ☕
+- 💞️ I’m looking to collaborate on N/A 😥
+- 📫 How to reach me - Message me on Discord @Choggly#7892
 
 <!---
 choggly/choggly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
