@@ -5,6 +5,7 @@
 - 📫 How to reach me - Message me on Discord @Choggly#7892
 
 - https://www.codecademy.com/profiles/Choggly
+- https://www.linkedin.com/in/charlie-crutcher-8a535a247/
 
 <!---
 choggly/choggly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
